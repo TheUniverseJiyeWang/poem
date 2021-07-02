@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Jiye Wang",
+    "occupation":"Front-End Developer",
+    "description":"A language enthusiast, a designer, a pianist and an explorer",
+    "image":"profilepic.jpg",
+    "bio":"I have industrial knowledge of front-end developing and design, and I'm experienced with React framework and languages including Javascript, CSS and Html. Former designer and exhibition planer with great expertise in media and design. Also, a part-time pianist and writer.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "decemberjaywong@gmail.com",
+    "phone": "902-237-0517",
+    "address":{
+      "street":"Nelson Ave",
+      "city":"Vancouver",
+      "state":"British Columbia",
+      "zip": "V5H 0G5"
+    },
+    "website": "https://websitejw.netlify.app/",
+    "resumedownload":"https://drive.google.com/file/d/1VxLQuE9q0PEzLce8gAp_rXu01RhYDOqe/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jiye.wang.7509",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jiye-wang-0b8aa711b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/wang.jiye/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/TheUniverseJiyeWang",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Front-end developing languages and tools, database technologies including MySQL and MongoDB, back-end languages such as Java and Python, data analysis algorithms and tools including Selenium, Tensorflow and Scikit-learn, graphic desgin tools including Photoshop and Illustrator.",
+    "education":[
+      {
+        "school":"Saint Mary's University",
+        "degree":"Master in Computing and Data Analytics",
+        "graduated":"February 2021",
+        "description":"Graduated with an overall GPA of 4.11(A+). The 2nd place winner of 2019 SMU Hackathon."
+      },
+      {
+        "school":"Tongji University",
+        "degree":"Bachelor in Industrial Design",
+        "graduated":"June 2015",
+        "description":"Chief Editor of Tongji University Student Newspaper. Outstanding Student Leader Award 2012."
+      }
+    ],
+    "work":[
+      {
+        "company":"Hanhua Information Technology Co., Ltd",
+        "title":"Full Stack Developer Intern (Remote)",
+        "years":"June 2020 - December 2020",
+        "description":"Participated in developing an ERP system called Fuxin Agricultural Construction Management Information System. Responsible for developing the features of managing reports and customizing personal information forms using React, Redux, Restful API, Springboot, Maven and Mybatis."
+      },
+      {
+        "company":"Jo-Jing Advertising Co., Ltd",
+        "title":"Digital Executive",
+        "years":"May 2016 - September 2017",
+        "description":"Designed and operated custormized membership systems and OLAP systems. Designed marketing and advertising strategies for clients including Philips, HP and Sigma. Designed and implemented online and offline events, exhibitions and campaigns."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"90%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
